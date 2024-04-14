@@ -1,4 +1,4 @@
-Sure, here's a completed README file for your landing page project:
+
 
 ---
 
