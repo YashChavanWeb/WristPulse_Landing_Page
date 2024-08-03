@@ -5,7 +5,7 @@
 # WristPulse Landing Page
 
 Welcome to the WristPulse landing page project! This project serves as an ideal starting point for beginners in web development. By working on this project, you'll gain hands-on experience with HTML and CSS while unleashing your creativity to design an impressive landing page.
-Website Link: https://wristpulse.netlify.app/
+### Website Link: https://wristpulse.netlify.app/
 
 ## Project Overview
 
